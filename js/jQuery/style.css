@@ -1,0 +1,18 @@
+.combobox {
+    margin: 5px 0;
+}
+
+select {
+    width: 200px;
+}
+
+.buttons {
+    margin: 5px 0;
+}
+
+.combobox option:nth-child(even) {
+    background-color: bisque;
+}
+.combobox option:nth-child(odd) {
+    background-color: rgb(204, 182, 156);
+}
